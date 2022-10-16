@@ -11,7 +11,7 @@
 
 ### Refactor the course RESTapi
 
-If you're feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
+If you are feeling up to it, refactor the course RESTapi to make a request to your newly provisioned image server.
 
 ### Authentication
 
